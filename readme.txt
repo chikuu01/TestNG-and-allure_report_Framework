@@ -8,6 +8,11 @@ Features:
 	2-User can also construct the request body using parameters taken from excel file.I have created an Utility using ApachePOI to read data from excel.
 
 	3-This project is build on the concept of data driven and keyword driven.
+	>I have divided project into 4 packages they are 
+		(a)Request repository
+		(b)Test classes
+		(c)Api method class
+		(d)Driver class
 
 	4-The test execution is driven by TestNG XML.
 
